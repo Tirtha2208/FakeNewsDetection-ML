@@ -9,4 +9,4 @@ The algorithms used are:
 4. KNN
 
 
-**Extract the Dataset.7z to get the dataset.**
+**Extract the Dataset.7z or Dataset.zip to get the dataset.**
